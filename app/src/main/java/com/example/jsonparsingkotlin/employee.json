@@ -1,0 +1,23 @@
+{
+  "Address": {
+    "City": "Latur",
+    "Country": "Maharastra"
+  },
+  "Age": 20,
+  "Family": [
+    {
+      "Age": 20,
+      "Role": "Son"
+    },
+    {
+      "Age": 25,
+      "Role": "sister"
+    },
+    {
+      "Age": 40,
+      "Role": "Wife"
+    }
+  ],
+  "First_Name": "Shivam",
+  "Mail": "srt@gmail.com"
+}
